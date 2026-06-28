@@ -1,0 +1,33 @@
+{
+    "appName": "Portal Web by LUTFY",
+    "version": "1.0.0",
+    "description": "Portal web modern dengan loading screen interaktif",
+    "author": "LUTFY",
+    "features": [
+        "Responsive Design",
+        "Loading Screen Interaktif",
+        "Navigasi Smooth Scroll",
+        "Card Animations",
+        "Dynamic Content Loading"
+    ],
+    "contact": {
+        "email": "info@portalweb.com",
+        "phone": "(021) 1234-5678",
+        "address": "Jakarta, Indonesia"
+    },
+    "social": {
+        "facebook": "https://facebook.com/portalweb",
+        "twitter": "https://twitter.com/portalweb",
+        "instagram": "https://instagram.com/portalweb"
+    },
+    "theme": {
+        "primary": "#9b59b6",
+        "secondary": "#2c3e50",
+        "background": "#ffffff",
+        "text": "#333333"
+    },
+    "analytics": {
+        "enabled": false,
+        "trackingId": ""
+    }
+}
